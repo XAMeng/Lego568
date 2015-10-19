@@ -47,6 +47,7 @@
     }else{
         btn.selected = YES;
     }
+    NSLog(@"1112223344556");
 }
 - (IBAction)confimbutton:(id)sender {
 }
